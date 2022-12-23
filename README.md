@@ -30,13 +30,30 @@ You can chose to join,Leave or create a community on your own and Add moderators
 
 Here are some screenshots of the application.
 
-<img src="assets/login.png" width="400" height="700" >
-<img src="assets/feed.png" width="400" height="700" >
-<img src="assets/communityDrawer.png" width="400" height="700" >
-<img src="assets/createCommunity.png" width="400" height="700" >
-<img src="assets/editCommunity.png" width="400" height="700" >
-<img src="assets/Agency.png" width="400" height="700" >
-<img src="assets/posts.png" width="400" height="700" >
-<img src="assets/postComment.png" width="400" height="700" >
+<table>
+  <tr>
+    <td><img src="assets/login.png" width="400" height="700" ></td>
+    <td><img src="assets/feed.png" width="400" height="700" ></td>
+  </tr>
+  <tr>
+    <td><img src="assets/communityDrawer.png" width="400" height="700" ></td>
+    <td><img src="assets/createCommunity.png" width="400" height="700" ></td>
+  </tr>
+  <tr>
+    <td><img src="assets/editCommunity.png" width="400" height="700" ></td>
+    <td><img src="assets/Agency.png" width="400" height="700" ></td>
+  </tr>
+  <tr>
+    <td><img src="assets/posts.png" width="400" height="700" ></td>
+    <td><img src="assets/postComment.png" width="400" height="700" ></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
 

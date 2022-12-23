@@ -1,3 +1,7 @@
+<h1 style="text-decoration: underline">PAW-BUDDY</h1>
+
+
+
 Paw-Buddy is a mobile application developed using flutter and firebase for the database.it helps rescuing injured, stray,
 homeless pets and even help normal users with pet issues.
 
